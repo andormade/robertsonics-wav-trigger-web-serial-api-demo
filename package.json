@@ -1,0 +1,23 @@
+{
+  "name": "web-serial-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andormade/web-serial-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andormade/web-serial-api/issues"
+  },
+  "homepage": "https://github.com/andormade/web-serial-api#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
